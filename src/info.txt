@@ -1,0 +1,1 @@
+caut in search bar, trimit request catre un API si afisez o lista de imagini
